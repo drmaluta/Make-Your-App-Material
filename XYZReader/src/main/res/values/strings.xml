@@ -8,5 +8,7 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="done_loading">Loading is complete</string>
+    <string name="errow_loading">Error occurred while loading. Please try again later.</string>
 
 </resources>
